@@ -1,6 +1,6 @@
 # REQUIREMENTS
 Latest Version of Node.js and npm installed.
-Download Node.js at https://nodejs.org/dist/v14.15.4/node-v14.15.4-x64.msi
+Download Node.js along with npm at https://nodejs.org/dist/v14.15.4/node-v14.15.4-x64.msi
 Windows or linux as an OS
 
 # SETUP
