@@ -5,6 +5,7 @@ Windows or linux as an OS
 # SETUP
 1: Run "npm i" in your terminal  
 2: Go to discord.com/developers and make a new bot and invite it as bot along with applications.commands in the oauth2 page.  
-2: Enter in your details. (App ID, Client ID and Bot Token)  
-3: Run "node index.js" (for bot and website) or "node bot.js" (for bot only) in your terminal  
-4: Open Discord (USE DISCORD WEB CLIENT NOT MOBILE CLIENT)  
+3: Enter in your details. (App ID, Client ID and Bot Token)  
+4: Run "node index.js" (for bot and website) or "node bot.js" (for bot only) in your terminal  
+5: Open Discord (USE DISCORD WEB CLIENT NOT MOBILE CLIENT)  
+6: Type in / and it should popup all the commands put in the /commands folder.
